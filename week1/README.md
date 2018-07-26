@@ -1,3 +1,4 @@
+# Week 1
 ## Objectives
 
 - Decide on entire course objectives
