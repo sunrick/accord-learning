@@ -10,6 +10,6 @@
 
 
 ## Resources
-[Sublime](https://www.sublimetext.com/)
-[HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Sublime](https://www.sublimetext.com/)
+- [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
