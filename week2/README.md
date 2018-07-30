@@ -33,3 +33,8 @@ Feel free to add colors and make your own page more intense if you want! I repea
 </body>
 </html>
 ```
+
+## Resources
+- [Google Fonts](https://fonts.google.com/)
+- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Normailze CSS](https://necolas.github.io/normalize.css/)
