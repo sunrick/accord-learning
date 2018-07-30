@@ -16,6 +16,8 @@ Try to get as close as you can using the tech we learned in the class.
 
 You should have a `index.html` and `main.css` file. See the HTML below for what you should start with!
 
+Feel free to add colors and make your own page more intense if you want! I repeated content. Each READ MORE button should take you to some link on the internet.
+
 ```html
 <!DOCTYPE html>
 <html>
