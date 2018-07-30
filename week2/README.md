@@ -13,6 +13,7 @@
 Try to get as close as you can using the tech we learned in the class.
 
 ![Page to copy](page_to_copy.png)
+![Page to copy](page_to_copy.gif)
 
 You should have a `index.html` and `main.css` file. See the HTML below for what you should start with!
 
