@@ -14,4 +14,3 @@
 - Style a card
 - Make a navbar
 - Copy a webpage
-
