@@ -5,7 +5,7 @@
 - Normalize.css
 - Learn about div elements and layout
 - Learn flex box
-- Positioning (fixed + absolute)
+- Positioning (fixed + absolute) (maybe skip)
 - Assign project
 
 ## Projects
