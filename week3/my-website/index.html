@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Week 3</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <h1> YOUR HTML </h1>
+  <p id="first"> This is my paragraph. </p>
+  <button id="my-button"> My Button </button>
+  <a style="color: white;" href="features.html"> Features </a>
+  <script type="text/javascript">
+    var button = document.getElementById('my-button')
+    button.addEventListener('click', function (event) {
+      if (button.style.backgroundColor === 'red') {
+        button.style.backgroundColor = 'blue'
+        button.innerText = 'blue'
+      } else {
+        button.style.backgroundColor = 'red'
+        button.innerText = 'red'
+      }
+    })
+    function fullName (firstName, lastName) {
+      if (firstName.toLowerCase() === "rickard") {
+        return "BALLER"
+      } else {
+        return firstName + lastName
+      }
+    }
+  </script>
+</body>
+</html>
